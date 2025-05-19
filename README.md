@@ -49,6 +49,10 @@
 | [IPL Dashboard](https://github.com/tirthmagnus/ipl-powerbi-dashboard) | Power BI insights with DAX optimization | Power BI, SQL |
 
 ---
+### 🐍 My Contributions (Snake Style)
+
+![Snake animation](https://github.com/tirthmagnus/tirthmagnus/blob/output/github-contribution-grid-snake.svg)
+
 
 ### 🧠 Fun Fact
 
