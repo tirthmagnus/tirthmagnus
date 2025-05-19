@@ -1,16 +1,56 @@
-## Hi there 👋
+<h1 align="center">Hi There! 👋</h1>
 
-<!--
-**tirthmagnus/tirthmagnus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="mailto:tirthbhatt9@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/tirthmagnus/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=portfolio&logoColor=white"/></a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Languages–Frameworks–Tools
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tirthmagnus&show_icons=true&theme=radical" alt="GitHub stats" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=tirthmagnus&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+
+### 📂 Featured Projects
+
+| Project | Description | Tech Stack |
+|--------|-------------|------------|
+| [Weatherstack Azure ETL](https://github.com/tirthmagnus/weatherstack-azure-etl) | API to Blob to Power BI pipeline | Python, Azure Data Factory, Power BI |
+| [Datacheckr](https://github.com/tirthmagnus/datacheckr) | Custom data validation Python package | Pandas, NumPy |
+| [Neo4j Fraud Detection](https://github.com/tirthmagnus/neo4j-fraud-detection) | Network graph for suspicious transactions | Neo4j, Cypher, Python |
+| [IPL Dashboard](https://github.com/tirthmagnus/ipl-powerbi-dashboard) | Power BI insights with DAX optimization | Power BI, SQL |
+
+---
+
+### 🧠 Fun Fact
+
+> I enjoy using data to **tell compelling stories**, especially when it helps companies save time, reduce costs, or scale smarter.
+
+---
+
