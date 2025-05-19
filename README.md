@@ -30,9 +30,11 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tirthmagnus&show_icons=true&theme=radical" alt="GitHub stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=tirthmagnus&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tirthmagnus&show_icons=true&theme=github_dark&hide_border=true&border_radius=8&count_private=true" alt="Tirth's GitHub Stats"/>
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tirthmagnus&theme=github-dark&hide_border=true&border_radius=8" alt="Tirth's GitHub Streak"/>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tirthmagnus&layout=compact&theme=github_dark&hide_border=true&border_radius=8" alt="Tirth's Top Languages"/>
 </p>
 
 ---
