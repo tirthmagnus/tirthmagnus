@@ -43,7 +43,7 @@
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| [Weatherstack Azure ETL](https://github.com/tirthmagnus/weatherstack-azure-etl) | API to Blob to Power BI pipeline | Python, Azure Data Factory, Power BI |
+| [Weatherstack Azure ETL](https://github.com/tirthmagnus/ai-weather-etl) | API to Blob to Power BI pipeline | Python, Azure Data Factory, Power BI |
 | [Datacheckr](https://github.com/tirthmagnus/datacheckr) | Custom data validation Python package | Pandas, NumPy |
 | [Neo4j Fraud Detection](https://github.com/tirthmagnus/neo4j-fraud-detection) | Network graph for suspicious transactions | Neo4j, Cypher, Python |
 | [IPL Dashboard](https://github.com/tirthmagnus/ipl-powerbi-dashboard) | Power BI insights with DAX optimization | Power BI, SQL |
