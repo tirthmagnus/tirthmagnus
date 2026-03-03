@@ -17,19 +17,20 @@
 
 ## 🧠 About Me
 
+```python
 class TirthrajBhatt:
     role        = ["Data Engineer", "Data Scientist", "Analytics Engineer"]
     experience  = "4+ years"
     company     = "VeeVentures"
     location    = "India 🇮🇳"
-    
+
     expertise   = {
         "data_engineering":  ["Medallion Architecture", "ETL Pipelines", "Data Warehousing"],
         "data_science":      ["XGBoost", "Prophet Forecasting", "Recommender Systems"],
         "analytics":         ["RFM Segmentation", "Cohort Analysis", "BI Dashboards"],
         "cloud":             ["Azure Data Factory", "Blob Storage", "Power BI"],
     }
-    
+
     currently   = "Building production-grade data platforms"
     motto       = "Data is not just numbers — it's the story your business hasn't told yet."
 ```
@@ -108,7 +109,9 @@ class TirthrajBhatt:
 <img src="https://github-readme-stats.vercel.app/api?username=tirthmagnus&show_icons=true&theme=github_dark&hide_border=true&border_radius=8&count_private=true&include_all_commits=true" height="165"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tirthmagnus&layout=compact&theme=github_dark&hide_border=true&border_radius=8&langs_count=8" height="165"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tirthmagnus&theme=github-dark&hide_border=true&border_radius=8" width="49%"/>
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=tirthmagnus&theme=github-dark&hide_border=true&border_radius=8" width="60%"/>
 
 </div>
 
@@ -134,9 +137,9 @@ class TirthrajBhatt:
 
 ### 💡 What I'm Currently Working On
 
-🔭 **Building** production-grade full-stack data platforms  
-🌱 **Learning** Databricks, dbt, and real-time streaming with Kafka  
-👯 **Open to collaborate** on data engineering & ML projects  
+🔭 **Building** production-grade full-stack data platforms
+🌱 **Learning** Databricks, dbt, and real-time streaming with Kafka
+👯 **Open to collaborate** on data engineering & ML projects
 💬 **Ask me about** ETL pipelines, XGBoost, SQL optimization, Azure
 
 ---
