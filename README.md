@@ -17,7 +17,6 @@
 
 ## 🧠 About Me
 
-```python
 class TirthrajBhatt:
     role        = ["Data Engineer", "Data Scientist", "Analytics Engineer"]
     experience  = "4+ years"
