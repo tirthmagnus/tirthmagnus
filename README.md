@@ -18,7 +18,7 @@
 ## 🧠 About Me
 
 ```python
-class TirthBhatt:
+class TirthrajBhatt:
     role        = ["Data Engineer", "Data Scientist", "Analytics Engineer"]
     experience  = "4+ years"
     company     = "VeeVentures"
