@@ -1,19 +1,15 @@
-```python
-{
-  "name":      "Tirth Bhatt",
-  "role":      "BI & Data Engineer",
-  "location":  "New Jersey, USA 📍",
-  "stack":     ["Power BI", "Azure ADF", "T-SQL", "Python", "Databricks"],
-  "focus":     "Where clean pipelines meet dashboards that drive real decisions",
-  "open_to":   ["Sr. BI Analyst", "Analytics Engineer", "Sr. Data Engineer"]
-}
-```
+# Tirth Bhatt — BI & Data Engineer
+
+> *Where clean pipelines meet dashboards that drive real decisions.*
+
+📍 New Jersey, USA &nbsp;|&nbsp; 🎓 MS Data Science, Pace University &nbsp;|&nbsp; 💼 Open to Sr. BI Analyst · Analytics Engineer · Sr. Data Engineer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-tirthrajbhatt-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tirthrajbhatt)
 [![Portfolio](https://img.shields.io/badge/Portfolio-tirthmagnus.github.io-f59e0b?style=flat&logo=github&logoColor=white)](https://tirthmagnus.github.io/)
 [![Email](https://img.shields.io/badge/Email-tirthbhatt1011@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:tirthbhatt1011@gmail.com)
 ![Profile Views](https://komarev.com/ghpvc/?username=tirthmagnus&color=f59e0b&style=flat)
 
+---
 ---
 
 </div>
