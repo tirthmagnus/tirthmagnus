@@ -1,4 +1,3 @@
-<div align="center">
 ```python
 {
   "name":      "Tirth Bhatt",
@@ -14,6 +13,8 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-tirthmagnus.github.io-f59e0b?style=flat&logo=github&logoColor=white)](https://tirthmagnus.github.io/)
 [![Email](https://img.shields.io/badge/Email-tirthbhatt1011@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:tirthbhatt1011@gmail.com)
 ![Profile Views](https://komarev.com/ghpvc/?username=tirthmagnus&color=f59e0b&style=flat)
+
+---
 
 </div>
 
