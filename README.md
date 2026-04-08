@@ -6,7 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-tirthrajbhatt-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tirthrajbhatt)
 [![Portfolio](https://img.shields.io/badge/Portfolio-tirthmagnus.github.io-f59e0b?style=flat&logo=github&logoColor=white)](https://tirthmagnus.github.io/)
-[![Email](https://img.shields.io/badge/Email-tirthbhatt1011@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:tirthbhatt1011@gmail.com)
+[![Email](https://img.shields.io/badge/Email-tirthbhatt9@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:tirthbhatt9@gmail.com)
 ![Profile Views](https://komarev.com/ghpvc/?username=tirthmagnus&color=f59e0b&style=flat)
 
 ---
