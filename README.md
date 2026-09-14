@@ -1,4 +1,4 @@
-# Tirth Bhatt — BI & Data Engineer
+# Tirth Bhatt: BI & Data Engineer
 
 > *Where clean pipelines meet dashboards that drive real decisions.*
 
